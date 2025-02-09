@@ -9,8 +9,8 @@ class Config:
     API_HASH = environ.get("API_HASH", "79e5caa103a9e9fb0183390b4800845d")
     BOT_TOKEN = environ.get("BOT_TOKEN", "8109432845:AAE-hrRVPKeIERtNMb_3sNt1a05-ALJI-bI") 
     BOT_SESSION = environ.get("BOT_SESSION", "vjbot") 
-    DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://viratrajesh83:Rajesh@18@cluster0.qeqrf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-    DATABASE_NAME = environ.get("DATABASE_NAME", "viratrajesh83")
+    DATABASE_URI = environ.get("DATABASE_URI", "mongodb+srv://ganeshganesh177:17032009@sasukeuchiha.k21bh.mongodb.net/?retryWrites=true&w=majority&appName=Sasukeuchiha")
+    DATABASE_NAME = environ.get("DATABASE_NAME", "Sasukeuchiha")
     BOT_OWNER = int(environ.get("BOT_OWNER", "5371238852"))
 
 # Don't Remove Credit Tg - @VJ_Botz
